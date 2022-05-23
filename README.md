@@ -14,9 +14,9 @@
 
 - [Python for Data Science](Data%20Visualization)
 
-- [Data Analysis with Python]()
+- [Data Analysis with Python](Data%20Analysis)
 
-- [Data Visualization with Python]()
+- [Data Visualization with Python](Python%20Basics)
 
 ![img](img/analytics.jpg)
 
