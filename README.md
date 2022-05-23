@@ -1,6 +1,6 @@
-<p align="center">
+<p" >           
 
-![img](img/ibm.png, align="center")
+![img](img/ibm.png)
 
 </p>
 
