@@ -12,11 +12,11 @@
 
 ## 📝 Content
 
-- [Python for Data Science](Data%20Visualization)
+- [Python for Data Science](Python%20Basics)
 
 - [Data Analysis with Python](Data%20Analysis)
 
-- [Data Visualization with Python](Python%20Basics)
+- [Data Visualization with Python](Data%20Visualization)
 
 ![img](img/analytics.jpg)
 
