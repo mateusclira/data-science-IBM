@@ -1,6 +1,6 @@
 <p align="center">
 
- <img width=210px height=200px src="ibm.png" alt="Project logo">
+ ![img](img/ibm.png)
 </p>
 
 <h3 align="center">Data Science with Python - IBM</h3>
@@ -20,7 +20,7 @@
 
 - [Data Visualization with Python]
 
-<img width=210px height=200px src="analytics.jpg" alt="Project logo">
+![img](img/analytics.jpg)
 
 ## ⛏️ Built Using <a name = "Studied using"></a>
 
