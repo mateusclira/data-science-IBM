@@ -1,15 +1,12 @@
-<p" >           
+<div align="center">
 
 ![img](img/ibm.png)
 
-</p>
+</div>
+
 
 <h3 align="center">Data Science with Python - IBM</h3>
 
-<div align="center">
-
-
-</div>
 
 ---
 
