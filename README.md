@@ -1,5 +1,7 @@
 <p align="center">
-![img](img/ibm.png)
+
+![img](img/ibm.png, align="center")
+
 </p>
 
 <h3 align="center">Data Science with Python - IBM</h3>
